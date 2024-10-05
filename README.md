@@ -1,6 +1,5 @@
 # Christian's Portfolio
-![alt tag]
-(https://imgur.com/a/WMMDQCs)
+![alt tag](https://imgur.com/9LsXreA)
 How It's Made: Tech used: HTML, CSS, JavaScript using HTML5 UP! Template
 
 Lessons Learned:
